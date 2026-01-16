@@ -1,4 +1,4 @@
-# 👩‍💻 ¡Hola! Soy Keidis, desarrolladora web
+# 👩‍💻 ¡Hola! Soy Keidis, Desarrolladora Full Stack
 
 Soy una apasionada de la tecnología, el diseño y la innovación. Siempre en constante aprendizaje, me encanta encontrar soluciones creativas y eficientes.
 
