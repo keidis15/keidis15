@@ -15,3 +15,8 @@ Siempre trato de crear soluciones que no solo sean estéticamente agradables, si
 ## 🚀 ¡Estoy abierta a nuevas oportunidades!
 ¡Siempre estoy dispuesta a aprender y colaborar!
 
+📫 **¿Cómo contactarme?**
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/keidis-stefania-suarez-ch-157a51280)
+- Email: keidissuarez16@gmail.com
+
+
