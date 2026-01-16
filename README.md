@@ -4,7 +4,7 @@ Soy una apasionada de la tecnología, el diseño y la innovación. Siempre en co
 
 ## 💻 Habilidades técnicas
 - **Frontend:** HTML, CSS, JavaScript, React, Bootstrap
-- **Backend:** Node.js
+- **Backend:** Node.js, Express.js
 - **Diseño:** Figma, Adobe XD, Corel Draw
 - **Herramientas:** Git, GitHub, Visual Studio Code, NPM
 - **Metodologías:** Agile, Scrum
